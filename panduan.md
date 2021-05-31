@@ -66,9 +66,10 @@ npm i @babel/core @babel/node @babel/preset-env
 node --experimental-json-modules about.js
 ```bash
 npm i sequelize pg
-
+```
 ```bash
 npm i @babel/register
+```
 ```bash
 npm i -D nodemon
 ```
